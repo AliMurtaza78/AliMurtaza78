@@ -8,6 +8,6 @@
 
 <p align="center">
 <a href="https://github.com/muazzamshahzad/">
-<img width="170px" height="24" src="https://profile-counter.glitch.me/muazzamshahzad/count.svg" alt="muazzamshahzad" />
+<img width="170px" height="24" src="https://profile-counter.glitch.me/AliMurtaza78/count.svg" alt="AliMurtaza78" />
 </a> </p>
 <br>
