@@ -29,24 +29,16 @@ height="85px"/>
 height="85px"/>
 <img src="https://user-images.githubusercontent.com/79268979/149309376-598b2f8d-6a50-4689-9386-8ddd2a268beb.png" width="85px"
 height="85px"/>
-<img src="https://user-images.githubusercontent.com/79268979/149309422-d8e89280-975f-4ae8-903a-8265fd7cd18f.png" width="85px"
-height="85px"/>
-<img src="https://user-images.githubusercontent.com/79268979/149309622-6487a2d1-2361-416f-91f8-4e3d22d6cc1c.png" width="85px"
-height="85px"/>
-<img src="https://user-images.githubusercontent.com/79268979/149309571-1e821ca8-d8c2-4f56-83cb-184d931cc1b1.png" width="85px"
-height="85px"/>
-<img src="https://user-images.githubusercontent.com/79268979/149309629-12287b08-e34f-4991-a309-6524d89be62b.png" width="85px"
-height="85px"/>
+
 
 <br>
 
 ### <img src="https://user-images.githubusercontent.com/79268979/149316245-70770252-4d03-486c-aaec-1e1932857f82.png" width="20px" height="20px"/>  Stats
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AliMurtaza78&langs_count=5&layout=compact&theme=vue)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AliMurtaza78&langs_count=5&layout=compact&theme=vue)]() <br>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AliMurtaza78&hide=issues&count_private=true&theme=vue&showicons=true)]()
 
 
 <br>
 
 
-📝 I will be bloging about my learnings on <a href="https://medium.com/@codepoco">codepoco.com </a>, a Rails app I designed and developed to store and keep up my learning progress
