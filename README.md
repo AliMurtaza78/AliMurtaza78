@@ -23,7 +23,7 @@
 ### <img src="https://user-images.githubusercontent.com/79268979/149316245-70770252-4d03-486c-aaec-1e1932857f82.png" width="20px" height="20px"/>  Stats
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AliMurtaza78&langs_count=5&layout=compact&theme=dracula)]() <br>
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AliMurtaza78&hide=issues&count_private=true&theme=vue&showicons=true&theme=dracula)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AliMurtaza78&hide=issues&count_private=true&theme=dracula&showicons=true)]()
 
 
 <br>
