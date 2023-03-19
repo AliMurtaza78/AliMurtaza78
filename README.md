@@ -1,8 +1,9 @@
 ### Hi there I'm Ali Murtaza👋
 
-- 🌱 I’m currently learning advanced Coding
-- 💬 Ask me about HTML,CSS,Javascript.
-- 👦 I am a Front-end Developer
+- 🌱 I’m Graduated from Migracode
+- 📖 I am still improving my skills to reach certain heights
+- 💬 Ask me about HTML,CSS,Javascript,React,Next.js,Node.js,PostgresSql,Postman
+- 👦 I am a Full-Stack Developer
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like mountain climbing
 
